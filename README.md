@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gamze</h1>
-<h3 align="center">A passionate Jr.Data Scientist from İzmir.</h3>
+<h3 align="center">An enginner from İzmir.</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=ecf05e47sbcj2dxkjt00exd4vn06ex2oiygny3bqenset3uo&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently working on **machine learning and CRM analytics**
